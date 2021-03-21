@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj": {}
+    "c:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj": {
+    "c:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj",
         "projectName": "DelegateAndEvent",
-        "projectPath": "C:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QsSvIMPnGMXKCa+b5x/muTZESxRiZH69QEyQEA77WkVjHJbHqJkosi7oAFLPpumYSw2ak63HosiBEKokO39oUg==",
+  "dgSpecHash": "UQXLypMHCC6zuSg+V8jcyOw5AGkBFl0fEs8X9379wwQNFkyi84e5I2abynA2FMvui8YpMLg/uF0JsfcTKGMzCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj",
+  "projectFilePath": "c:\\Users\\user\\Desktop\\csharp_project\\DelegateAndEvent\\src\\DelegateAndEvent\\DelegateAndEvent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
