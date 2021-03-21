@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\csharp_project\DelegateAndEvent\src\DelegateAndEvent\obj\Debug\net5.0\DelegateAndEvent.csprojAssemblyReference.cache
+C:\Users\user\Desktop\csharp_project\DelegateAndEvent\src\DelegateAndEvent\obj\Debug\net5.0\DelegateAndEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp_project\DelegateAndEvent\src\DelegateAndEvent\obj\Debug\net5.0\DelegateAndEvent.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp_project\DelegateAndEvent\src\DelegateAndEvent\obj\Debug\net5.0\DelegateAndEvent.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp_project\DelegateAndEvent\src\DelegateAndEvent\obj\Debug\net5.0\DelegateAndEvent.csproj.CoreCompileInputs.cache
